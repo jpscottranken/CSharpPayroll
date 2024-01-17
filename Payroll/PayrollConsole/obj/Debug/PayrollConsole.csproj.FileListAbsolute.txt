@@ -1,0 +1,7 @@
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\bin\Debug\PayrollConsole.exe.config
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\bin\Debug\PayrollConsole.exe
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\bin\Debug\PayrollConsole.pdb
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\obj\Debug\PayrollConsole.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\obj\Debug\PayrollConsole.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\obj\Debug\PayrollConsole.exe
+C:\Users\jpscott\Desktop\CSharpPayroll\Payroll\PayrollConsole\obj\Debug\PayrollConsole.pdb
